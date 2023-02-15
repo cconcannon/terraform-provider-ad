@@ -2,7 +2,7 @@ package messages
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"time"
 
 	"github.com/jcmturner/gofork/encoding/asn1"
